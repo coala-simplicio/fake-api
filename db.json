@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "login": "andreocunha",
+      "id": 1,
+      "name": "André Oliveira Cunha",
+      "email": "andre@gmail.com",
+      "followers": 43,
+      "following": 54
+    },
+    {
+      "login": "nataliejd",
+      "id": 2,
+      "name": "Natalie Jieda",
+      "email": "jieda@gmail.com",
+      "followers": 100,
+      "following": 300
+    },
+    {
+      "login": "neymarjr",
+      "id": 3,
+      "name": "Neymar da Silva Santos Junior ",
+      "email": "neymar@gmail.com",
+      "followers": 1000,
+      "following": 3000
+    }
+  ],
+  "repos": [
+    {
+      "name": "api-escolas 2",
+      "data": "1 de jam. de 2021",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Arduino_AVES_Telemetria",
+      "data": "1 de jam. de 2021 ",
+      "postID": 1
+    },
+    {
+      "id": 3,
+      "name": "bot_piano_titles",
+      "data": "1 de jam. de 2021 ",
+      "postID": 1
+    }
+  ]
+}
